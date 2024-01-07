@@ -1,0 +1,245 @@
+• <!DOCTYPE> :-
+ 
+    Defines the document type and version of HTML .
+
+• <html> :-
+
+    Represents the root element of an HTML document.
+
+• <head> :-
+
+    It has information about the HTML document, such as title etc.
+
+• <title> :-
+
+    Sets the title of the HTML document, that will be displayed in the browser's title bar or tab.
+
+• <body> :-
+
+    Contains the content of the HTML document, including text, images, links, etc.
+
+• <h1> to <h6> :-
+
+    Define heading levels, with <h1> as the highest (most important) and <h6> as the lowest.
+
+• <p> :- 
+
+    Represents a paragraph of text.
+
+• <a> :- 
+
+    The tag defines a hyperlink.
+
+• <br> :- 
+
+    Inserts a line break within text.
+
+• <hr> :- 
+
+    The <hr> tag is an empty tag, which means that is has no end tag. 
+
+    The tag defines a thematic break in an HTML page, and is most often displayed as a horizontal rule. 
+
+• <img> :- 
+
+    To insert an image in the document.
+
+• <pre> :-
+
+    The <pre> tag defines preformatted text.
+
+    The text inside a <pre> element is displayed in a fixed-width font (usually Courier), and it preserves both spaces and line breaks.
+
+• <style> :-
+
+    The style attribute is used to add styles to an element, such as colour, font, size, and more.
+
+    Defines style information for an HTML document.
+
+• <b> :-
+
+    The <b> tag defines bold text, without any extra importance.
+
+• <strong> :-
+
+    The <strong> tag defines text with strong importance. 
+
+    The content inside is typically displayed in bold.
+
+• <i> :-
+
+    The I tag defines a part of text in an alternate voice or mood.
+
+    The content inside is typically displayed in italic.
+
+• <em> :-
+
+    The <em> tag defines emphasized text.
+
+    The content inside is typically displayed in italic.
+
+• <small> :-
+
+    The <small> tag defines smaller text.
+
+• <mark> :-
+
+    The <mark> tag defines text that should be marked or highlighted.
+
+• <del> :- 
+
+    The <del> tag defines text that has been deleted from a document.
+
+    Browsers will usually strike a line through deleted text.
+
+• <ins> :- 
+
+    The <ins> tag defines a text that has been inserted into a document.
+
+    Browsers will usually underline inserted text.
+
+• <sub> :- 
+
+    The <sub> tag defines subscript text.
+
+    Subscript text appears half a character below the normal line, and is something rendered in a smaller font.
+
+    Subscript text can be used for chemical formula, like H2O.
+
+• <sup> :- 
+
+    The <sup> element defines superscript text.
+
+    Superscript text appears half a character above the normal line, and is sometimes rendered in a smaller font.
+
+    Superscript text can be used for footnotes, like WWW[1].
+
+• <abbr> :- 
+
+    Defines an abbreviation or acronym, like “HTML”, “CSS”, “Mr”.
+
+    Marking abbreviations can give useful information to browsers, translation systems and search-engines.
+
+• <address> :-
+
+    Defines contact information for the author/owner of a document.
+
+• <bdo> :-
+
+    Defines the text direction.
+
+• <blockquote> :- 
+
+    Defines a section that is quoted from another source.
+
+• <cite> :-
+
+    Defines the title of a work.
+
+    The text in the <cite> element usually renders in italic.
+
+• <q> :-
+
+    Define a short inline quotation.
+
+    Browsers normally insert quotation marks around the quotation.
+
+• <link> :-
+
+    Use the HTML <link> element to refer to an external CSS file.
+
+    Defines a link between a document and an external resource.
+
+    Defines the relationship between a document and an external resource.
+
+• <map> :-
+
+    Defines an image map.
+
+• <area> :-
+
+    Defines a clickable area inside an image map.
+
+• <picture> :-
+
+    Defines a container for multiple image resources.
+
+• <table> :-
+
+    Defines a table.
+
+    A table consists of table cells inside rows and columns.
+
+• <th> :-
+
+    Defines a header cell in a table.
+
+• <tr> :-
+
+    Define a row in a table.
+
+    Each table row starts with a <tr> and ends with a </tr> tag.
+
+• <td> :-
+
+    Defines a cell in a table.
+
+• <caption> :-
+
+    Defines a table caption.
+
+• <colgroup> :-	
+
+    Specifies a group of one or more columns in a table for formatting.
+
+• <col> :-
+
+    Specifies column properties for each column within a <colgroup> element.
+
+• <thead> :-
+
+    Groups the header content in a table.
+
+• <tbody> :-
+
+    Groups the body content in a table.
+
+• <tfoot> :- 
+
+    Groups the footer content in a table.
+
+• <ul> :-
+
+    Defines an unordered list.
+
+• <ol> :-
+
+    Defines an ordered list.
+
+• <li> :-
+
+    Defines a list item.
+
+• <dl> :-
+
+    Defines a description list.
+
+• <dt> :-
+
+    Defines a term in a description list.
+
+• <dd> :-
+
+    Describes the term in a description list.
+
+• <div> :-
+
+    Defines a section in a document (block-level).
+
+    The <div> element defines a division or a section in an HTML document.
+
+• <span> :-
+
+    Defines a section in a document (inline).
+
+    The <span> element is an inline container used to mark up a part of a text, or a part of a document.
